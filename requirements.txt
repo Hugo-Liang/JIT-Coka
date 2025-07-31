@@ -1,0 +1,6 @@
+tqdm==4.63.0
+transformers==4.9.1
+nltk==3.7
+scikit-learn==1.0.2
+sentencepiece==0.1.96
+pandas==1.4.2
