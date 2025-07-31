@@ -1,0 +1,9 @@
+.idea
+.ipynb_checkpoints
+.DS_Store
+__pycache__/
+__MACOSX/
+JITCoka/concat/run.py
+JITCoka/concat/model.py
+
+

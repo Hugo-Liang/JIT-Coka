@@ -1,6 +1,6 @@
 # JIT-Coka
 
-**Note:** The necessary scripts of run.py and model.py under the **JITCoka/concat/** folder, as well as our trained checkpoint of JIT-Coka will be released soon.
+**Note:** The necessary scripts of **run.py** and **model.py** under the **JITCoka/concat/** folder, as well as our trained checkpoint of JIT-Coka will be released soon.
 
 #### 1. Project Description
 Replication package for the paper entitled: JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change
@@ -28,6 +28,7 @@ Replication package for the paper entitled: JIT-Coka: An Improved Framework for 
 
 #### 4. Data and Pre-trained Model Files Preparation
 1. Extract the data used to train and evaluate JIT-Coka via ```tar -zxvf data/jitcoka.tar.gz```.
+2. 
 **Note:** These files are the same as those used to train and evaluate JIT-Smart.
 
 
@@ -35,10 +36,12 @@ Replication package for the paper entitled: JIT-Coka: An Improved Framework for 
 
 
 #### 5. Run JIT-Coka
-**1. Test using our trained checkpoint**
+**1. Test using our trained checkpoint.**
+
 Comment out the first line in the **train_jitcoka.sh** file, and directly test JIT-Coka via ```bash train_jitcoka.sh```
 
-**2. Train and test JIT-Coka from scratch**
+**2. Train and test JIT-Coka from scratch.**
+
 ```bash train_jitcoka.sh```
 
 
