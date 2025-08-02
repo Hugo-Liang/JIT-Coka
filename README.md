@@ -1,6 +1,8 @@
 # JIT-Coka
 
-**Note:** The necessary scripts of **run.py** and **model.py** under the **JITCoka/concat/** folder, as well as our trained checkpoint of JIT-Coka will be released soon.
+**Note:** 
+1. All supplemental materials for the paper can be found in the **appendix** folder.
+2. The necessary scripts of **run.py** and **model.py** under the **JITCoka/concat/** folder, as well as our trained checkpoint of JIT-Coka will be released soon.
 
 #### 1. Project Description
 Replication package for the paper entitled: JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change
