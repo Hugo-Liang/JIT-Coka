@@ -2,6 +2,7 @@
 
 **Note:** 
 1. All supplemental materials for the paper can be found in the **appendix** folder.
+
 2. The necessary scripts of **run.py** and **model.py** under the **JITCoka/concat/** folder, as well as our trained checkpoint of JIT-Coka will be released soon.
 
 #### 1. Project Description
@@ -30,7 +31,7 @@ Replication package for the paper entitled: JIT-Coka: An Improved Framework for 
 
 #### 4. Data and Pre-trained Model Files Preparation
 1. Extract the data used to train and evaluate JIT-Coka via ```tar -zxvf data/jitcoka.tar.gz```.
-2. 
+
 **Note:** These files are the same as those used to train and evaluate JIT-Smart.
 
 
